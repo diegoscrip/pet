@@ -1,2 +1,4 @@
 # pet
-Sistema pet desenvolvida no framework laravel.
+Sistema pet desenvolvido no framework laravel.
+
+Documentação detalhada em breve
